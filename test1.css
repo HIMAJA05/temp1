@@ -1,0 +1,38 @@
+ *{
+ 	background-color:blue;
+ }
+ .button img{
+ 	height: 80px;
+ 	width:150px;
+ 	position: absolute;
+ 	left:110px;
+ }
+ ul{
+ 	position: absolute;
+ 	top:45px;
+ 	right:160px;
+ }
+ li{
+ 	display: inline;
+ }
+ .img img{
+	height:400px;
+	width:80%;
+	position: absolute;
+	top:85px;
+	left:110px;
+
+}
+header{
+	position:absolute;
+	top:485px;
+	left:110px;
+	width: 80%;
+	height: 35px;
+	background-color: blue;
+
+}
+li{
+
+	padding:2px;
+}
